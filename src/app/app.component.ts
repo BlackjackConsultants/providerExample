@@ -1,5 +1,4 @@
 import { Component, Inject } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
 import { DataStorage } from './interfaces/data-storage';
 
 @Component({
